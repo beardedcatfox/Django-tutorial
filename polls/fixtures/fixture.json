@@ -1,0 +1,524 @@
+[
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add question",
+    "content_type": 7,
+    "codename": "add_question"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change question",
+    "content_type": 7,
+    "codename": "change_question"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete question",
+    "content_type": 7,
+    "codename": "delete_question"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view question",
+    "content_type": 7,
+    "codename": "view_question"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add choice",
+    "content_type": 8,
+    "codename": "add_choice"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change choice",
+    "content_type": 8,
+    "codename": "change_choice"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete choice",
+    "content_type": 8,
+    "codename": "delete_choice"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view choice",
+    "content_type": 8,
+    "codename": "view_choice"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$Wa6u0USv321NcMxZQoAk9X$u9H4A1wdcMvatTMN7KJYDqVVSyWsESt8soDXOB6xRsI=",
+    "last_login": "2023-01-15T11:28:38.050Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@noreply.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-01-15T11:27:43.956Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 8,
+  "fields": {
+    "password": "&$EMPTrmn8",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Michael Williams",
+    "first_name": "",
+    "last_name": "",
+    "email": "fbeck@example.net",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2023-01-21T19:54:30.867Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 9,
+  "fields": {
+    "password": "*8GPPrxr)m",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Judith Green",
+    "first_name": "",
+    "last_name": "",
+    "email": "francesmoore@example.net",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2023-01-21T19:54:30.868Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 10,
+  "fields": {
+    "password": "&4JeVu*z!8",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Madison Becker",
+    "first_name": "",
+    "last_name": "",
+    "email": "phillipscott@example.net",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2023-01-21T19:54:30.868Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 11,
+  "fields": {
+    "password": "_35I(Wvdjx",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Shelly Davidson",
+    "first_name": "",
+    "last_name": "",
+    "email": "lauragarcia@example.net",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2023-01-21T19:54:30.869Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 12,
+  "fields": {
+    "password": "@9(X%i$G1U",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Thomas Day",
+    "first_name": "",
+    "last_name": "",
+    "email": "charles96@example.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2023-01-21T19:54:30.869Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 13,
+  "fields": {
+    "password": "q7fJH1aP##",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Charlotte Duffy",
+    "first_name": "",
+    "last_name": "",
+    "email": "chaseacosta@example.net",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2023-01-21T19:54:30.870Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 14,
+  "fields": {
+    "password": "e30pDVZs@2",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Spencer Skinner",
+    "first_name": "",
+    "last_name": "",
+    "email": "vcurtis@example.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2023-01-21T19:54:30.871Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 15,
+  "fields": {
+    "password": "&8@eOeud5r",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Shane Vang",
+    "first_name": "",
+    "last_name": "",
+    "email": "heather22@example.org",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2023-01-21T19:54:30.872Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "polls",
+    "model": "question"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "polls",
+    "model": "choice"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "qg8wah00hn3z76i0euuukispny5926ee",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSG8BopL934DGRiQqoGktCvjv2uTLnR7zzn3xQJuaw3byEuYiZ2ZZKffLWJ65LYDumO7dZ56W5c58l3hBx382ik_L4f7d1Bx1G8tjI3gkzQKnNZgvTVGYxFILoH3DsDoaUK0WTqXlJVUvNRJAPniFEn2_gCmUzaV:1pH1Bm:yVJhvzdOFrNKtEnH3z5OWLHKUZjpU6t09ylG--EUerE",
+    "expire_date": "2023-01-29T11:28:38.058Z"
+  }
+}
+]
